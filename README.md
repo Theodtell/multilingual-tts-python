@@ -77,7 +77,6 @@ Olá eu sou o Theo e estou gerando áudios no python
 ```bash
 multilingual-tts-python/
 ├── main.py            # Arquivo principal
-├── requirements.txt   # Dependências do projeto
 └── README.md          # Documentação
 ```
 
